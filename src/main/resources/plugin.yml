@@ -1,0 +1,7 @@
+name: ZAHFix
+version: 1.0.0
+main: net.firstsky.zahfix.ZAHFixPlugin
+api-version: '1.21'
+description: Fix for zAuctionHouse purchase menu not updating in real-time
+softdepend:
+  - zAuctionHouseV3
